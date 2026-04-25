@@ -1,0 +1,8 @@
+target/
+maven/
+maven.zip
+.idea/
+*.iml
+.classpath
+.project
+.settings/
